@@ -1,16 +1,29 @@
-### Hi there 👋
+Hi 👋 My name is Jose Rojas
+===========================
 
-<!--
-**j0srgz/j0srgz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps | SRE | Cloud | Backend
+-------------------------
 
-Here are some ideas to get you started:
+I am an IT specialist with a specialized focus in DevOps and SRE, with practical experience in designing and implementing highly scalable distributed systems. Through my skills, I work on optimizing technological infrastructures to drive system efficiency and performance. My focus is on the effective implementation of DevOps and SRE practices to ensure continuous delivery of reliable and high-quality software. I have worked in dynamic environments that have required quick problem-solving and robust distributed systems architecture. Additionally, I have closely collaborated with multifunctional teams to integrate agile practices and maximize development effectiveness. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🌍  I'm based in Caracas, Venezuela
+*   ✉️  You can contact me at [rojasjosealbertog@gmail.com](mailto:rojasjosealbertog@gmail.com)
+*   🚀 I'm currently working on <a href="https://gracaconsultores.com/">Graca Consultores</a> and <a href="https://www.bancodevenezuela.com/">Banco de Venezuela</a>
+
+Skills
+-------------------------
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/labs/thumb/b/ba/Kubernetes-icon-color.svg/512px-Kubernetes-icon-color.svg.png?20210818121315" width="36" height="36" alt="Kubernetes" /></a><a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/gitlab-icon-2048x1885-1o0cwkbx.png" width="36" height="36" alt="GitLab" /></a><a href="https://vmware.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/VMware_Workstation_Icon.png" width="36" height="36" alt="vmware" /></a><a href="https://cri-o.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/29074118?s=280&v=4" width="36" height="36" alt="cri-o"/></a><a href="https://containerd.io/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/1ebbcda0afaef4c3d557dfbfb038717d915fe0ab57f0cc80c144ac1305317197/68747470733a2f2f636f6e7461696e6572642e696f2f696d672f6c6f676f732f69636f6e2f626c61636b2f636f6e7461696e6572642d69636f6e2d626c61636b2e706e67" width="36" height="36" alt="containerd"/></a><a href="https://docs.gitlab.com/ee/ci/" target="_blank" rel="noreferrer"><img src="https://addissoftware.com/wp-content/uploads/2020/09/gitlab-ci-cd-logo_2x-1.png" width="36" height="36" alt="gitlab-ci/cd"/></a><a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" width="36" height="36" alt="jenkins"/></a><a href="https://argo-cd.readthedocs.io/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:741/1*6-6c85UzYw5anvRW3nEJvg.png" width="36" height="36" alt="argocd"/></a><a href="https://istio.io/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/istio-logo-icon-683x1024-4kzyblk8.png" width="36" height="36" alt="istio"/></a><a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/ansible-icon-2048x2048-mc4z634w.png" width="36" height="36" alt="ansible"/></a><a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png" width="36" height="36" alt="terraform"/></a><a href="https://www.elastic.co/en/elastic-stack" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/elastic-stack-logo-png-transparent.png" width="36" height="36" alt="elk"/></a><a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://exchange.icinga.com/cark/Grafana%20Module/logo" width="36" height="36" alt="grafana"/></a><a href="https://www.zabbix.com/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/zabbix_logo_icon_167937.png" width="36" height="36" alt="zabbix"/></a><a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/1200px-Prometheus_software_logo.svg.png" width="36" height="36" alt="prometheus"/></a>
+</p>
+
+Socials
+-------------------------
+            
+<p align="left">
+                      <a href="https://www.linkedin.com/in/josearojasg" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+                    </picture>
+                    </a></p>
